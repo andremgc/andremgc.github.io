@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Site em teste
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Testando o uso do beautiful-jekyll
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sou André M. G. Costa, Mestre em engenharia elétrica"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -28,7 +28,8 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
+# avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuk_TaJaMzNiiwV9Eao8mcorAQAmajmRy4_HO5Un47yR3dKD6Q&s"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -38,15 +39,15 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#F5F5FF"
+navbar-text-col: "#40404F"
+navbar-children-col: "#F5F5FF"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+hover-col: "#0085AF"
+footer-col: "#F5F5FF"
+footer-text-col: "#77777F"
+footer-link-col: "#40404F"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -68,12 +69,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "andmgdc@gmail.com"
+  facebook: andremgcosta
+  github: andremgc
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: andré-m-g-costa-12527411b
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
