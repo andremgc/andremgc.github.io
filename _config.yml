@@ -20,7 +20,7 @@ description: Testando o uso do beautiful-jekyll
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Sou André M. G. Costa, Mestre em engenharia elétrica"
+  About Me: 
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -39,15 +39,15 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5E0"
-navbar-text-col: "#4040E0"
-navbar-children-col: "#F5F5E0"
-page-col: "#FFFFE0"
-link-col: "#008AE0"
-hover-col: "#008590"
-footer-col: "#F5F5E0"
-footer-text-col: "#777760"
-footer-link-col: "#404030"
+navbar-col: "#F5F5FF"
+navbar-text-col: "#404060"
+navbar-children-col: "#F5F5FF"
+page-col: "#FEFEFF"
+link-col: "#008AFF"
+hover-col: "#008585"
+footer-col: "#F5F5FF"
+footer-text-col: "#777788"
+footer-link-col: "#404050"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
